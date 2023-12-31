@@ -7,8 +7,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaswinder-Swain&label=Profile%20views&color=0e75b6&style=flat" alt="Jaswinder-Swain" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
 - ⚡ Fun fact **I am funny😅**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,33 +39,73 @@
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
+
+<div style="display: flex;">
+
+  <!-- Left Section -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+    <h4>🌏 Something about me</h4>
+    <!-- profile starts -->
+    <pre>
+    <code>
+    data class DataEngineerProfile(
+        val pronouns: String = "he|him",
+        val askMeAbout: List<String> = listOf(
+            "Python", "JavaScript", "HTML", 
+            "Linux", "Big Data","Shell Scripting",
+            "Snowflake", "Informatica", "Backtracking"
+        ),
+        val toLearn: Map<String, String> = mapOf(
+            "Spark" to "Advanced Analytics",
+            "Airflow" to "Workflow Orchestration",
+            "Kafka" to "Event Streaming"
+        ),
+        val dailyRoutine: IntRange = 0..24, // Assuming a 24-hour daily routine
+        val currentProjects: List<String> = listOf(
+            "Building ETL Pipelines with Informatica",
+            "Implementing Data Processing Jobs with Spark",
+            "Exploring Snowflake for Cloud Data Warehousing",
+            "Developing a Full Stack Web Application with React and Node.js"
+        )
+    )
+    </code>
+    </pre>
+    <!-- profile ends -->
+  </div>
+
+  <!-- Right Section -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; text-align: right;">
+    <pre>
+    <code>
+    ```diff
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    @@       o o                                           @@
+    @@       | |                                           @@
+    @@      _L_L_                                          @@
+    @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+    @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+    @@   ❮/ \`-'/ \❯                                       @@
+    @@     _/`U'\_                                         @@
+    @@    ( .   . )     .----------------------------.     @@
+    @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+    @@   \ |  ,  | /    '----------------------------'     @@
+    @@    \|=====|/                                        @@
+    @@     |_.^._|                                         @@
+    @@     | |"| |                                         @@
+    @@     ( ) ( )   Testing leads to failure              @@
+    @@     |_| |_|   and failure leads to understanding    @@
+    @@ _.-' _j L_ '-._                                     @@
+    @@(___.'     '.___)                                    @@
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    ```
+    </code>
+    </pre>
+  </div>
 </div>
 
 
