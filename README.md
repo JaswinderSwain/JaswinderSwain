@@ -51,10 +51,65 @@ data class DataEngineerProfile(
 </div>
 
 
+<!--Skills-->
+
+<a href="https://github.com/JaswinderSwain">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/JaswinderSwain">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/JaswinderSwain">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ 【﻿Ｓｋｉｌｌｓ】  
+</h3>
+
+<a href="https://github.com/JaswinderSwain">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<br>
+<br> 
+
+<div align="center">
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+| **Programming Languages**                           | **Frontend**                                      | **Backend**                                       | **Database**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
+| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| <p align="center">[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/JaswinderSwain) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/JaswinderSwain) </p>| <p align="center">[![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/JaswinderSwain) |<p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](https://github.com/JaswinderSwain)  |
+| <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)](https://github.com/JaswinderSwain) |<p align="center"> [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/JaswinderSwain)  |
+| <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/JaswinderSwain) |<p align="center"> [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/JaswinderSwain) |<p align="center"> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/JaswinderSwain)  |
+|<p align="center"> [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/JaswinderSwain) |<p align="center"> [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://github.com/JaswinderSwain) |                                                   |<p align="center"> [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/JaswinderSwain) | <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/JaswinderSwain)  |
+| <p align="center">[![C](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/JaswinderSwain) | <p align="center">[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://github.com/JaswinderSwain) |                                                  |<p align="center"> [![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/JaswinderSwain) |<p align="center"> [![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://github.com/JaswinderSwain)  |
+| <p align="center">[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/JaswinderSwain) |<p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/JaswinderSwain) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?flat-square&logo=Hibernate&logoColor=white)](https://github.com/JaswinderSwain) |                                                   | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/JaswinderSwain)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)](https://github.com/JaswinderSwain)                                                  |                                            |
+|                                                   |<p align="center"> [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)](https://github.com/JaswinderSwain) |<p align="center"> [![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)](https://github.com/JaswinderSwain) |                                                   |                                                   |  <p align="center">[![Postman](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/JaswinderSwain)                                                  |                                                 |
+
+
+</div>
+
+
+
+<a href="https://github.com/JaswinderSwain">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
