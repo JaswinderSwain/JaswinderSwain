@@ -95,11 +95,4 @@ data class DataEngineerProfile(
 <!--ENDS_HERE_QUOTE_README-->
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaswinder-Swain&show_icons=true&locale=en&layout=compact" alt="Jaswinder-Swain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaswinder-Swain&show_icons=true&locale=en" alt="Jaswinder-Swain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswinder-Swain&" alt="Jaswinder-Swain" /></p>
